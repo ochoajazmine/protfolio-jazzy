@@ -4,9 +4,16 @@ div{
     padding: 30px;
 }
 .container{
-    border-color: aqua;
+    border-color:blueviolet;
 }
 
 .row{
     border-color: hotpink;
 }
+
+.list-group-item {
+    border:0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
