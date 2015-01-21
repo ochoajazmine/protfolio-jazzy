@@ -1,4 +1,4 @@
-
+/* this is just my border and color of the border how wide and how thick */
 div{
     border-style:solid;
     border-width: 5px;
@@ -15,7 +15,7 @@ div{
     border-color:black
 }
 
-.list-group-item:{
+.list-group-item{
     border:0px;
     margin-top:40px;
     margin-bottom:40px;
